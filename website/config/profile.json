@@ -54,7 +54,7 @@
             { "meta": "2027", "sub": "voraussichtlich", "title": "Abitur", "text": "Karl-Arnold-Schule Biberach, Technisches Gymnasium, Profilfach Informationstechnik." },
             { "meta": "2022 - 2026", "title": "Aushilfstrainer, Karate TG Biberach", "text": "Trainingsgruppen anleiten." },
             { "meta": "2025 - 2026", "title": "Minijob auf dem Wochenmarkt" },
-            { "meta": "2024", "sub": "19.02. bis 22.04.", "title": "Praktikum im Bereich Entwicklung", "text": "Elektro- und Informationstechnik, Vollmer Maschinenwerke, Biberach an der Riß." }
+            { "meta": "2024", "sub": "19.02. bis 22.02.", "title": "Praktikum im Bereich Entwicklung", "text": "Elektro- und Informationstechnik, Vollmer Maschinenwerke, Biberach an der Riß." }
           ]
         },
         {
@@ -93,7 +93,6 @@
       "imprint": {
         "label": "Impressum",
         "lines": [
-          "Angaben gemäß § 5 DDG",
           "{name}",
           "{address}",
           "E-Mail: {email}"
@@ -136,7 +135,7 @@
             { "meta": "2027", "sub": "expected", "title": "Abitur", "text": "Karl-Arnold-Schule Biberach, technical secondary school, major in information technology." },
             { "meta": "2022 - 2026", "title": "Assistant trainer, Karate TG Biberach", "text": "Leading training groups." },
             { "meta": "2025 - 2026", "title": "Part-time job at the weekly market" },
-            { "meta": "2024", "sub": "19 Feb to 22 Apr", "title": "Internship in development", "text": "Electrical and information technology, Vollmer Maschinenwerke, Biberach an der Riß." }
+            { "meta": "2024", "sub": "19 Feb to 22 Feb", "title": "Internship in development", "text": "Electrical and information technology, Vollmer Maschinenwerke, Biberach an der Riß." }
           ]
         },
         {
@@ -175,7 +174,6 @@
       "imprint": {
         "label": "Legal notice",
         "lines": [
-          "Information pursuant to § 5 DDG",
           "{name}",
           "{address}",
           "E-Mail: {email}"
