@@ -45,6 +45,7 @@
           "rows": [
             { "meta": "E-Mail", "title": "cosmin.fiegen@web.de", "href": "mailto:cosmin.fiegen@web.de" },
             { "meta": "GitHub", "title": "github.com/ThePythonist811", "href": "https://github.com/ThePythonist811" }
+            { "meta": "Lebenslauf", "title": "Lebenslauf: auf Anfrage", "href": "mailto:cosmin.fiegen@web.de?subject=Lebenslauf%20anfragen" }
           ]
         },
         {
@@ -126,6 +127,7 @@
           "rows": [
             { "meta": "E-Mail", "title": "cosmin.fiegen@web.de", "href": "mailto:cosmin.fiegen@web.de" },
             { "meta": "GitHub", "title": "github.com/ThePythonist811", "href": "https://github.com/ThePythonist811" }
+            { "meta": "CV", "title": "CV: available on request", "href": "mailto:cosmin.fiegen@web.de?subject=CV%20request" }
           ]
         },
         {
