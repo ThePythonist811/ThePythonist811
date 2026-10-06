@@ -1,0 +1,17 @@
+{
+  "name": "profilseite-cosmin-fiegen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Persönliche Profilseite, alle Inhalte aus config/profile.json",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch-path=config --watch-path=src server.js",
+    "build": "node build.js",
+    "check": "node -e \"try{require('./src/config').loadConfig(process.env.PROFILE_CONFIG||'config/profile.json');console.log('Konfiguration OK')}catch(e){console.error(e.message);process.exit(1)}\"",
+    "test": "node --test"
+  }
+}
