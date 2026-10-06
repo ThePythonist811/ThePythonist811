@@ -25,7 +25,7 @@
         "description": "Cosmin Fiegen, Schüler am Technischen Gymnasium (Profil Informationstechnik), Abitur 2027. Werdegang, Auszeichnungen, Kenntnisse und eigene Projekte."
       },
       "role": "Schüler am Technischen Gymnasium, Abitur 2027",
-      "bio": "Ich mache derzeit mein Abitur auf einem Technischen Gymnasium im Informationstechnik Profil. In meiner Freizeit arbeite ich gerne an KI Projekten oder ähnlichem."
+      "bio": "Ich mache derzeit mein Abitur auf einem Technischen Gymnasium im Informationstechnik Profil. In meiner Freizeit arbeite ich gerne an KI Projekten oder ähnlichem.",
       "interests": "Interessen: Programmieren, Gitarre, 3D-Druck, Karate",
       "facts": [
         { "label": "Aktuell", "value": "Schüler, Technisches Gymnasium" },
@@ -67,7 +67,7 @@
           "title": "Ausbildung",
           "rows": [
             { "meta": "09/2024", "sub": "bis heute", "title": "Karl-Arnold-Schule Biberach", "text": "Technisches Gymnasium, Profilfach Informationstechnik. Ziel: Allgemeines Abitur 2027." },
-            { "meta": "09/2018", "sub": "bis 08/2024", "title": "Wieland-Gymnasium Biberach" },
+            { "meta": "09/2018", "sub": "bis 08/2024", "title": "Wieland-Gymnasium Biberach" }
           ]
         },
         {
@@ -84,7 +84,7 @@
           "rows": [
             { "meta": "JARVIS", "title": "Persönliches KI-Assistenzsystem", "text": "Claude mit eigenen Skills und geplanten Routinen (Morgenbriefing, Mail, Wochen- und Monatsreview).", "extra": "Claude, Todoist, Google Calendar, Gmail, Obsidian, sowie MCP Server für Mail, Obsidian und Anki" },
             { "meta": "Second Brain", "title": "Verlinkter Obsidian-Vault", "text": "Schulnotizen überführt, als Grundlage für Kontext-Engineering.", "extra": "Obsidian, MOCs, Frontmatter, Wikilinks" },
-            { "meta": "Automatisierung", "title": "WebUntis-Kalender-Sync", "text": "WebUntis-Google-Calendar-Sync", "extra": "GitHub Actions" },
+            { "meta": "Automatisierung", "title": "WebUntis-Kalender-Sync", "text": "WebUntis-Google-Calendar-Sync", "extra": "GitHub Actions" }
           ]
         }
       ],
