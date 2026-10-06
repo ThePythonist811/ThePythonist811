@@ -15,7 +15,7 @@
   "person": {
     "name": "Cosmin Fiegen",
     "email": "cosmin.fiegen@web.de",
-    "address": "Georg-Schinbain-Str. 11, 88400 Biberach an der Riß"
+    "address": " "
   },
   "languages": {
     "de": {
@@ -25,7 +25,7 @@
         "description": "Cosmin Fiegen, Schüler am Technischen Gymnasium (Profil Informationstechnik), Abitur 2027. Werdegang, Auszeichnungen, Kenntnisse und eigene Projekte."
       },
       "role": "Schüler am Technischen Gymnasium, Abitur 2027",
-      "bio": "Ich besuche das Technische Gymnasium mit Profilfach Informationstechnik und mache 2027 Abitur. Ich arbeite gern mit Technik und mit Menschen: Im Karate leite ich als Aushilfstrainer Trainingsgruppen, am Spieltisch moderiere ich als Spielleiter eine feste Runde. Nebenbei baue ich eigene Software und KI-Werkzeuge.",
+      "bio": "Ich mache derzeit mein Abitur auf einem Technischen Gymnasium im Informationstechnik Profil. In meiner Freizeit arbeite ich gerne an KI Projekten oder ähnlichem."
       "interests": "Interessen: Programmieren, Gitarre, 3D-Druck, Karate",
       "facts": [
         { "label": "Aktuell", "value": "Schüler, Technisches Gymnasium" },
@@ -37,7 +37,7 @@
         {
           "title": "Ich suche",
           "rows": [
-            { "meta": "Nebenjob", "title": "Einen Nebenjob mit IT- oder KI-Bezug, remote oder in Biberach, neben der Schule." }
+            { "meta": "Minijob", "title": "Einen Minijob mit IT- Bezug, neben der Schule." }
           ]
         },
         {
@@ -51,9 +51,8 @@
           "title": "Werdegang",
           "rows": [
             { "meta": "2027", "sub": "voraussichtlich", "title": "Abitur", "text": "Karl-Arnold-Schule Biberach, Technisches Gymnasium, Profilfach Informationstechnik." },
-            { "meta": "seit 2022", "title": "Aushilfstrainer, Karate TG Biberach", "text": "Trainingsgruppen anleiten." },
-            { "meta": "laufend", "title": "Spielleiter einer Pen-and-Paper-Kampagne", "text": "Feste Gruppe moderieren, Sessions planen, Regeln erklären." },
-            { "meta": "laufend", "title": "Aushilfe im Minijob, samstags" },
+            { "meta": "2022 - 2026", "title": "Aushilfstrainer, Karate TG Biberach", "text": "Trainingsgruppen anleiten." },
+            { "meta": "2025 - 2026", "title": "Minijob auf dem Wochenmarkt" },
             { "meta": "2024", "sub": "19.02. bis 22.04.", "title": "Praktikum im Bereich Entwicklung", "text": "Elektro- und Informationstechnik, Vollmer Maschinenwerke, Biberach an der Riß." }
           ]
         },
@@ -69,13 +68,12 @@
           "rows": [
             { "meta": "09/2024", "sub": "bis heute", "title": "Karl-Arnold-Schule Biberach", "text": "Technisches Gymnasium, Profilfach Informationstechnik. Ziel: Allgemeines Abitur 2027." },
             { "meta": "09/2018", "sub": "bis 08/2024", "title": "Wieland-Gymnasium Biberach" },
-            { "meta": "Seminarkurs", "title": "Seminarkursarbeit (Co-Autor)", "text": "Wissenschaftlicher Vergleich zweier sozialer Bewegungen, mit Experteninterview." }
           ]
         },
         {
           "title": "Kenntnisse",
           "rows": [
-            { "meta": "KI-Workflows", "text": "Claude, MCP, Skills und Plugins, Kontext-Engineering, Obsidian, n8n" },
+            { "meta": "KI-Workflows", "text": "verschiedene Harnesses (Claude Code, Codex, Opencode, Hermes), MCP, Skills und Plugins, Kontext-Engineering, Obsidian, n8n" },
             { "meta": "Programmierung", "text": "C#, C++, Python, objektorientierte Entwicklung, HTML, CSS, GitHub Actions" },
             { "meta": "Hardware", "text": "Nucleo32, Raspberry Pi, Arduino, Onshape, Blender, 3D-Druck, Microsoft 365" },
             { "meta": "Sprachen", "text": "Englisch (B2), Latein (kleines Latinum)" }
@@ -84,11 +82,9 @@
         {
           "title": "Eigene Projekte",
           "rows": [
-            { "meta": "JARVIS", "title": "Persönliches KI-Assistenzsystem", "text": "Claude mit eigenen Skills und geplanten Routinen (Morgenbriefing, Mail-Triage, Wochenreview).", "extra": "Claude, Todoist, Google Calendar, Gmail, Obsidian" },
-            { "meta": "MCP und Skills", "title": "Eigener MCP-Server und Claude-Skills", "text": "MCP-Server für ein Mail-Postfach entwickelt und betrieben, weitere MCPs integriert, eigene Skills und Plugins gebaut.", "extra": "MCP, Python, Obsidian, Anki, Notion" },
+            { "meta": "JARVIS", "title": "Persönliches KI-Assistenzsystem", "text": "Claude mit eigenen Skills und geplanten Routinen (Morgenbriefing, Mail, Wochen- und Monatsreview).", "extra": "Claude, Todoist, Google Calendar, Gmail, Obsidian, sowie MCP Server für Mail, Obsidian und Anki" },
             { "meta": "Second Brain", "title": "Verlinkter Obsidian-Vault", "text": "Schulnotizen überführt, als Grundlage für Kontext-Engineering.", "extra": "Obsidian, MOCs, Frontmatter, Wikilinks" },
-            { "meta": "Web und Automatisierung", "title": "Spintmanager, n8n-Pipeline, Kalender-Sync", "text": "PWA zur Verwaltung der Schul-Spinde, Newsletter-Pipeline für Cybersecurity und KI, WebUntis-Google-Calendar-Sync.", "extra": "PWA, n8n, GitHub Actions" },
-            { "meta": "Code", "text": "Der Code liegt in privaten Repositories. Einblick gebe ich auf Anfrage." }
+            { "meta": "Automatisierung", "title": "WebUntis-Kalender-Sync", "text": "WebUntis-Google-Calendar-Sync", "extra": "GitHub Actions" },
           ]
         }
       ],
@@ -103,14 +99,14 @@
         ]
       }
     },
-    "en": {
+        "en": {
       "label": "EN",
       "meta": {
         "title": "Cosmin Fiegen – Profile",
         "description": "Cosmin Fiegen, student at a technical secondary school (major in information technology), Abitur 2027. Background, awards, skills and personal projects."
       },
       "role": "Student at a technical secondary school, Abitur 2027",
-      "bio": "I attend a technical secondary school with a major in information technology and will take my Abitur in 2027. I like working with technology and with people: in karate I lead training groups as an assistant trainer, and at the gaming table I run a regular group as game master. On the side I build my own software and AI tools.",
+      "bio": "I am currently doing my Abitur at a technical secondary school with a major in information technology. In my free time I like working on AI projects and similar things.",
       "interests": "Interests: programming, guitar, 3D printing, karate",
       "facts": [
         { "label": "Currently", "value": "Student, technical secondary school" },
@@ -122,7 +118,7 @@
         {
           "title": "Looking for",
           "rows": [
-            { "meta": "Side job", "title": "A side job with an IT or AI focus, remote or in Biberach, alongside school." }
+            { "meta": "Part-time job", "title": "A part-time job with an IT focus, alongside school." }
           ]
         },
         {
@@ -136,9 +132,8 @@
           "title": "Background",
           "rows": [
             { "meta": "2027", "sub": "expected", "title": "Abitur", "text": "Karl-Arnold-Schule Biberach, technical secondary school, major in information technology." },
-            { "meta": "since 2022", "title": "Assistant trainer, Karate TG Biberach", "text": "Leading training groups." },
-            { "meta": "ongoing", "title": "Game master of a pen-and-paper campaign", "text": "Moderating a regular group, planning sessions, explaining rules." },
-            { "meta": "ongoing", "title": "Part-time job on Saturdays" },
+            { "meta": "2022 - 2026", "title": "Assistant trainer, Karate TG Biberach", "text": "Leading training groups." },
+            { "meta": "2025 - 2026", "title": "Part-time job at the weekly market" },
             { "meta": "2024", "sub": "19 Feb to 22 Apr", "title": "Internship in development", "text": "Electrical and information technology, Vollmer Maschinenwerke, Biberach an der Riß." }
           ]
         },
@@ -153,14 +148,13 @@
           "title": "Education",
           "rows": [
             { "meta": "09/2024", "sub": "to present", "title": "Karl-Arnold-Schule Biberach", "text": "Technical secondary school, major in information technology. Aiming for the Abitur in 2027." },
-            { "meta": "09/2018", "sub": "to 08/2024", "title": "Wieland-Gymnasium Biberach" },
-            { "meta": "Seminar course", "title": "Seminar course paper (co-author)", "text": "Scientific comparison of two social movements, with an expert interview." }
+            { "meta": "09/2018", "sub": "to 08/2024", "title": "Wieland-Gymnasium Biberach" }
           ]
         },
         {
           "title": "Skills",
           "rows": [
-            { "meta": "AI workflows", "text": "Claude, MCP, skills and plugins, context engineering, Obsidian, n8n" },
+            { "meta": "AI workflows", "text": "Various harnesses (Claude Code, Codex, Opencode, Hermes), MCP, skills and plugins, context engineering, Obsidian, n8n" },
             { "meta": "Programming", "text": "C#, C++, Python, object-oriented development, HTML, CSS, GitHub Actions" },
             { "meta": "Hardware", "text": "Nucleo32, Raspberry Pi, Arduino, Onshape, Blender, 3D printing, Microsoft 365" },
             { "meta": "Languages", "text": "English (B2), Latin (Kleines Latinum)" }
@@ -169,11 +163,9 @@
         {
           "title": "Personal projects",
           "rows": [
-            { "meta": "JARVIS", "title": "Personal AI assistant system", "text": "Claude with custom skills and scheduled routines (morning briefing, mail triage, weekly review).", "extra": "Claude, Todoist, Google Calendar, Gmail, Obsidian" },
-            { "meta": "MCP and skills", "title": "Own MCP server and Claude skills", "text": "Developed and operated an MCP server for a mailbox, integrated further MCPs, built custom skills and plugins.", "extra": "MCP, Python, Obsidian, Anki, Notion" },
+            { "meta": "JARVIS", "title": "Personal AI assistant system", "text": "Claude with custom skills and scheduled routines (morning briefing, mail, weekly and monthly review).", "extra": "Claude, Todoist, Google Calendar, Gmail, Obsidian, plus MCP servers for mail, Obsidian and Anki" },
             { "meta": "Second brain", "title": "Linked Obsidian vault", "text": "Converted school notes, as a foundation for context engineering.", "extra": "Obsidian, MOCs, frontmatter, wikilinks" },
-            { "meta": "Web and automation", "title": "Spintmanager, n8n pipeline, calendar sync", "text": "PWA for managing school lockers, newsletter pipeline for cybersecurity and AI, WebUntis-Google-Calendar sync.", "extra": "PWA, n8n, GitHub Actions" },
-            { "meta": "Code", "text": "The code lives in private repositories. I am happy to give insight on request." }
+            { "meta": "Automation", "title": "WebUntis calendar sync", "text": "WebUntis-Google-Calendar sync", "extra": "GitHub Actions" }
           ]
         }
       ],
