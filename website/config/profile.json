@@ -25,7 +25,7 @@
         "description": "Cosmin Fiegen, Schüler am Technischen Gymnasium (Profil Informationstechnik), Abitur 2027. Werdegang, Auszeichnungen, Kenntnisse und eigene Projekte."
       },
       "role": "Schüler am Technischen Gymnasium, Abitur 2027",
-      "bio": "Ich mache derzeit mein Abitur auf einem Technischen Gymnasium im Informationstechnik Profil. In meiner Freizeit arbeite ich gerne an KI Projekten oder ähnlichem.",
+      "bio": "Hey, ich bin Cosmin. Ich mache 2027 mein Abitur am Technischen Gymnasium (Profil Informationstechnik). In meiner Freizeit baue ich eigene KI-Werkzeuge, zum Beispiel einen persönlichen Assistenten mit Claude, der meine Termine, Mails und Notizen organisiert.",
       "interests": "Interessen: Programmieren, Gitarre, 3D-Druck, Karate",
       "facts": [
         { "label": "Aktuell", "value": "Schüler, Technisches Gymnasium" },
@@ -106,7 +106,7 @@
         "description": "Cosmin Fiegen, student at a technical secondary school (major in information technology), Abitur 2027. Background, awards, skills and personal projects."
       },
       "role": "Student at a technical secondary school, Abitur 2027",
-      "bio": "I am currently doing my Abitur at a technical secondary school with a major in information technology. In my free time I like working on AI projects and similar things.",
+      "bio": "Hey, I'm Cosmin. I'm taking my Abitur in 2027 at a technical secondary school (major in information technology). In my free time I build my own AI tools, for example a personal assistant with Claude that organizes my appointments, emails and notes.",
       "interests": "Interests: programming, guitar, 3D printing, karate",
       "facts": [
         { "label": "Currently", "value": "Student, technical secondary school" },
