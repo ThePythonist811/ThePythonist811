@@ -52,7 +52,7 @@ h1{margin:0;font-size:clamp(52px,13vw,148px);font-weight:700;letter-spacing:-.06
 .facts dt{font-size:13px;color:var(--muted)}
 .facts dd{margin:0;font-size:18px;font-weight:600;line-height:1.3}
 section{border-top:1px solid var(--line);padding:48px 0;display:flex;gap:24px 48px;flex-wrap:wrap}
-h2{flex:0 0 200px;margin:0;font-size:15px;font-weight:600;color:var(--muted)}
+h2{flex:0 0 200px;margin:0;font-family:"Geist Mono",ui-monospace,monospace;font-size:13px;font-weight:500;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
 .rows{flex:1 1 440px;display:flex;flex-direction:column;gap:32px;margin:0;padding:0;list-style:none;min-width:0}
 .row{display:flex;gap:8px 32px;flex-wrap:wrap}
 .when{flex:0 0 170px;display:flex;flex-direction:column;gap:2px}
@@ -79,6 +79,12 @@ summary:hover{color:#fff}
   .row{flex-direction:column;gap:6px}
   .when{flex:none;flex-direction:row;align-items:baseline;gap:10px;flex-wrap:wrap}
   .what{flex:none}
+}
+@media (prefers-reduced-motion: no-preference){
+  @supports (animation-timeline: view()){
+    .row{animation:reveal linear both;animation-timeline:view();animation-range:entry 0% cover 30%}
+    @keyframes reveal{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+  }
 }
 @media print{
   :root{--bg:#fff;--text:#000;--soft:#222;--muted:#555;--line:#bbb;--accent:#000;color-scheme:light}
