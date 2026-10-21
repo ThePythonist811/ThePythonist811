@@ -37,7 +37,7 @@
         {
           "title": "Ich suche",
           "rows": [
-            { "meta": "Minijob", "title": "Einen Minijob mit IT- Bezug, neben der Schule." }
+            { "meta": "Minijob", "title": "Einen Minijob neben der Schule." }
           ]
         },
         {
@@ -118,7 +118,7 @@
         {
           "title": "Looking for",
           "rows": [
-            { "meta": "Part-time job", "title": "A part-time job with an IT focus, alongside school." }
+            { "meta": "Part-time job", "title": "A part-time job alongside school." }
           ]
         },
         {
