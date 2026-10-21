@@ -6,14 +6,6 @@ Ich mache derzeit mein Abitur auf einem Technischen Gymnasium im Informationstec
 
 **Profilseite:** [thepythonist811.github.io/ThePythonist811](https://thepythonist811.github.io/ThePythonist811/)
 
-### Woran ich arbeite
-
-| Projekt | Worum es geht | Werkzeuge |
-|---|---|---|
-| **JARVIS** | Persönliches KI-Assistenzsystem mit eigenen Skills und geplanten Routinen (Morgenbriefing, Mail, Wochen- und Monatsreview) | Claude, Todoist, Google Calendar, Gmail, Obsidian, MCP-Server für Mail, Obsidian und Anki |
-| **Second Brain** | Verlinkter Obsidian-Vault aus Schulnotizen, Grundlage für Kontext-Engineering | Obsidian |
-| **WebUntis-Kalender-Sync** | Stundenplan aus WebUntis automatisch in Google Calendar | GitHub Actions |
-
 ### Kenntnisse
 
 - **Programmierung:** C#, C++, Python, objektorientierte Entwicklung, HTML, CSS, GitHub Actions
